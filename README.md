@@ -1,9 +1,8 @@
 ## ABOUT
 
 This program uses RaspberryPi and connected sensors to obtain room's temperature, humidity and detects sound/noise (peeks like **claps** or **snaps**). 
-<br />
-
 Those data are accessed through ***Discord*** server/guild of choice with use of **BOT** when user use proper commands.
+<br /> 
 <br />
 
 ## WHAT IS NEEDED
@@ -14,7 +13,6 @@ Those data are accessed through ***Discord*** server/guild of choice with use of
     - Sound/Noise sensor (cheapest 3 pin 5V) (*[**example 'How to set sound/noise sensor'**](https://www.instructables.com/Using-a-sound-sensor-with-a-Raspberry-Pi-to-contro/)*)
 3. Discord server/guild with BOT (*[**example 'How to create'**](https://www.freecodecamp.org/news/create-a-discord-bot-with-python/)*)
 <br />
-
 
 ## INSTALLATION
 
@@ -28,7 +26,6 @@ If your sensors are connected and RaspberryPi is set:
     - **GUILD** - Discord guild/server name
 <br />
 
-
 ## HOW TO
 
 1. Go to choosen Discord guild/server (where you added BOT)
@@ -37,4 +34,3 @@ If your sensors are connected and RaspberryPi is set:
 3. Try them out !
 <br />
 
-## ADDITION
