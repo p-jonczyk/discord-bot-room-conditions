@@ -28,9 +28,10 @@ If your sensors are connected and RaspberryPi is set:
 
 ## HOW TO
 
-1. Go to choosen Discord guild/server (where you added BOT)
-2. Check all available commands by typing:
+1. Run ***bot.py***
+2.  Go to choosen Discord guild/server (where you added BOT)
+3. Check all available commands by typing:
     - ***.help*** at Discord chat
-3. Try them out !
+4. Try them out !
 <br />
 
