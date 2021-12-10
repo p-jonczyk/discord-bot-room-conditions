@@ -14,7 +14,7 @@ GPIO.setup(pin, GPIO.IN)
 def activate_detection(timeout: int = 10000) -> str:
     """Active sound detection
 
-    Parameter: 
+    Parameter:
     timeout: duration of detection default 10 sec
              (value in milisec)
     """
